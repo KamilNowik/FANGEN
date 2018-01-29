@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517192004 source:c:\users\kamil\desktop\codeblock\fangen\main.cpp
+	<iostream>
+	<math.h>
+
